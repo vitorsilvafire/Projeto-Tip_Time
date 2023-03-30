@@ -7,7 +7,7 @@
  <h3 style="color:red;">Objetivo:</h3>
  App que permite facilitar na hora de dar a gorjeta, calculando o curso do serviço vezes a porcentagem da gorjeta;
  <h3>Tecnologias:</h3>  
- Feito com Android Studio; <img src="https://user-images.githubusercontent.com/124945915/228702269-b3c81398-fdfa-4806-8616-15e4c5a5a15f.png" width="90" height="90" >
+ Android Studio; <img src="https://user-images.githubusercontent.com/124945915/228702269-b3c81398-fdfa-4806-8616-15e4c5a5a15f.png" width="90" height="90" >
  Kotlin;  <img src="https://user-images.githubusercontent.com/124945915/228702325-66f1cdd2-27ab-48b0-9cce-57c5720560ef.png" width="90" height="90" >
 
  <h3>Descrição:</h3>
